@@ -8,6 +8,11 @@
   </p>
 
 ---
+
+<h3 align="center">
+Optional
+</h3>
+
   <p align="center">
 Toggle the bookmarks bar visibility using the keyboard shortcut:
   </p>
@@ -15,9 +20,11 @@ Toggle the bookmarks bar visibility using the keyboard shortcut:
   <p align="center">
 Ctrl + Shift + B or ⌘ + ⇧ + B (Browser default)
   </p>
+
   <p align="center">
-The shortcut can be changed through **Settings > Keyboard Shortcuts > Other > Show Bookmarks Toolbar**.
+The shortcut can be changed through <b>Settings > Keyboard Shortcuts > Other > Show Bookmarks Toolbar</b>.
   </p>
+
 ---
 
 <h3 align="center">
