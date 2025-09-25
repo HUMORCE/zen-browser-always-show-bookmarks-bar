@@ -1,6 +1,6 @@
 :root[zen-single-toolbar='true']:not([customizing]) {
   #zen-appcontent-navbar-wrapper {
-    &:has(#PersonalToolbar[collapsed='false']) {
+    &:has(#PersonalToolbar:not([collapsed])) {
       & {
         transition: none !important;
 
