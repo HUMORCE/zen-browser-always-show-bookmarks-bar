@@ -21,3 +21,8 @@
     }
   }
 }
+
+/* Fullscreen mode visibility */
+:root[inFullscreen]:not([macOSNativeFullscreen]) toolbar:not([fullscreentoolbar="true"]) {
+  visibility: visible !important;
+}
